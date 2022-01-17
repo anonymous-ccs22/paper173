@@ -1,4 +1,4 @@
 # Audio Samples
 
 
-<audio controls="controls"><source type="samples/" src="AnyConv.com__013_2_male.mp4"></source></audio>
+<audio controls="controls"><source type="audio/wav" src="samples/fully-spoofed/002_alexa_0_wakeword.wav"></source></audio>
