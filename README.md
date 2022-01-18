@@ -2,7 +2,7 @@
 Click here to listen to the audio samples (real, fully-spoofed, partially-spoofed, and anonymyzed), https://anonymous-ccs22.github.io/paper173/
 
 ## Speaker 002
-> 1. Real Audio 
+> Real Audio 
 <audio controls="controls"><source type="audio/wav" src="samples/real/002_2_alexa.wav"></source></audio> 
 > 2. Fully-spoofed Audio :shipit:
    - (Alexa)
@@ -35,7 +35,7 @@ Click here to listen to the audio samples (real, fully-spoofed, partially-spoofe
 <audio controls="controls"><source type="audio/wav" src="samples/anonymyzed/002_2_1_anon.wav"></source></audio> 
 
 ## Speaker 013
-> 1. Real Audio 
+> Real Audio 
 <audio controls="controls"><source type="audio/wav" src="samples/real/013_2_alexa.wav"></source></audio> 
 > 2. Fully-spoofed Audio :shipit:
    - (Alexa)
@@ -68,7 +68,7 @@ Click here to listen to the audio samples (real, fully-spoofed, partially-spoofe
 <audio controls="controls"><source type="audio/wav" src="samples/anonymyzed/013_2_1_anon.wav"></source></audio> 
 
 ## Speaker 016
-> 1. Real Audio 
+> Real Audio 
 <audio controls="controls"><source type="audio/wav" src="samples/real/016_2_alexa.wav"></source></audio> 
 > 2. Fully-spoofed Audio :shipit:
    - (Alexa)
