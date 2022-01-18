@@ -1,5 +1,5 @@
 # Audio Samples
-Click here to hear the audio samples, https://anonymous-ccs22.github.io/paper173/
+Click here to listen to the audio samples (real, fully-spoofed, partially-spoofed, and anonymyzed), https://anonymous-ccs22.github.io/paper173/
 
 Speaker 002
 
