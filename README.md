@@ -7,13 +7,13 @@ Click here to listen to the audio samples (real, fully-spoofed, partially-spoofe
 
 > 2. Fully-spoofed Audio :shipit:
    - (Alexa)
-     - Wake-word
+     - Wake-word <br />
        <audio controls="controls"><source type="audio/wav" src="samples/fully-spoofed/002_alexa_0_wakeword.wav"></source></audio> 
-     - Seen Command, "Alexa, set an alarm for ten pm."
+     - Seen Command, "Alexa, set an alarm for ten pm." <br />
        <audio controls="controls"><source type="audio/wav" src="samples/fully-spoofed/002_alexa_5_seen.wav"></source></audio>
-     - Unseen Command, "Alexa, call mom" 
+     - Unseen Command, "Alexa, call mom" <br />
        <audio controls="controls"><source type="audio/wav" src="samples/fully-spoofed/002_alexa_23_unseen.wav"></source></audio>
-    
+    <br />
    - (Google)
      - Wake-word
        <audio controls="controls"><source type="audio/wav" src="samples/fully-spoofed/002_google_25_wakeword.wav"></source></audio> 
